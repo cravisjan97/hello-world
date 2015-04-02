@@ -1,2 +1,5 @@
-# hello-world
-my first app -hello world
+#include<stdio.h>
+void main()
+{
+prinf("hello world\n");
+}
